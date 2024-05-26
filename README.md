@@ -1,0 +1,2 @@
+"KeyRec 1.1, short for Keyboard Recorder 1.1,
+is an application designed to monitor and record user keyboard shortcuts and mouse activities.It is tailored for streamers and video content creators, this app provides invaluable insight into the precise keystrokes made during content creation. Whether you're crafting engaging tutorials, live streaming gameplay, or producing captivating video content, KeyRec 1.1 ensures that every keyboard stroke is meticulously tracked and analyzed.
